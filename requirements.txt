@@ -1,0 +1,12 @@
+ipython
+jupyterlab
+ipywidgets
+matplotlib
+numpy
+pandas
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+psycopg2-binary
+jupyter_http_over_ws
+sqlalchemy
