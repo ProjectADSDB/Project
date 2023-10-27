@@ -1,0 +1,1 @@
+CREATE TABLE employment_rate_2008 (id SERIAL PRIMARY KEY, year INT, sex VARCHAR(100), provinces VARCHAR(100), rates VARCHAR(100), total DECIMAL(5,2), quarter INT);
