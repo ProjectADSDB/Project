@@ -1,0 +1,3 @@
+Choose the starting quarter you want to predict in the following format (YYYYQQ) where 'QQ' can assume the values 'Q1', 'Q2', 'Q3', 'Q4'.
+starting = 2022Q1
+ending = 2022Q4

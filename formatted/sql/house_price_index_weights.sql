@@ -1,0 +1,1 @@
+CREATE TABLE house_price_index_weights_2014 (id SERIAL PRIMARY KEY, year INT, autonomous_communities_and_cities VARCHAR(100), index_type VARCHAR(100), total DECIMAL(5,2));
